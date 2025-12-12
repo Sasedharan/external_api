@@ -1,0 +1,70 @@
+{
+  "id": 3,
+  "firstName": "Suresh",
+  "lastName": "Kumar",
+  "maidenName": "Velan",
+  "age": 40,
+  "gender": "male",
+  "email": "suresh.kumar@example.com",
+  "phone": "+91 90000 89078",
+  "username": "sureshk",
+  "password": "suresh@2025",
+  "birthDate": "1985-11-05",
+  "image": "https://dummyjson.com/icon/suresh/128",
+  "bloodGroup": "O+",
+  "height": 178.3,
+  "weight": 80.1,
+  "eyeColor": "Brown",
+  "hair": {
+    "color": "Black",
+    "type": "Curly"
+  },
+  "ip": "103.55.99.78",
+  "address": {
+    "address": "52 Temple Road",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "stateCode": "TN",
+    "postalCode": "641001",
+    "coordinates": {
+      "lat": 11.0168,
+      "lng": 76.9558
+    },
+    "country": "India"
+  },
+  "macAddress": "F1:E2:D3:C4:B5:A6",
+  "university": "PSG College",
+  "bank": {
+    "cardExpire": "03/29",
+    "cardNumber": "4532223344556677",
+    "cardType": "Visa",
+    "currency": "INR",
+    "iban": "IN44SURESH008877665544"
+  },
+  "company": {
+    "department": "Finance",
+    "name": "MoneyWise Pvt Ltd",
+    "title": "Senior Accountant",
+    "address": {
+      "address": "Race Course Road",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "stateCode": "TN",
+      "postalCode": "641018",
+      "coordinates": {
+        "lat": 11.002,
+        "lng": 76.968
+      },
+      "country": "India"
+    }
+  },
+  "ein": "510-987",
+  "ssn": "991-443-210",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)",
+  "crypto": {
+    "coin": "Ethereum",
+    "wallet": "0xffeeddccbbaa9988776655443322110099887766",
+    "network": "ERC20"
+  },
+  "role": "manager"
+}
