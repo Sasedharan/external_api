@@ -1,0 +1,70 @@
+{
+  "id": 1,
+  "firstName": "Arjun",
+  "lastName": "Nair",
+  "maidenName": "Menon",
+  "age": 33,
+  "gender": "male",
+  "email": "arjun.nair@example.com",
+  "phone": "+91 98765 55678",
+  "username": "arjunnair",
+  "password": "arjunpass2025",
+  "birthDate": "1992-04-10",
+  "image": "https://dummyjson.com/icon/arjun/128",
+  "bloodGroup": "A-",
+  "height": 182.5,
+  "weight": 78.2,
+  "eyeColor": "Brown",
+  "hair": {
+    "color": "Black",
+    "type": "Wavy"
+  },
+  "ip": "103.22.118.90",
+  "address": {
+    "address": "12 Park Avenue",
+    "city": "Kochi",
+    "state": "Kerala",
+    "stateCode": "KL",
+    "postalCode": "682001",
+    "coordinates": {
+      "lat": 9.9312,
+      "lng": 76.2673
+    },
+    "country": "India"
+  },
+  "macAddress": "A1:B2:C3:D4:E5:F6",
+  "university": "IIT Madras",
+  "bank": {
+    "cardExpire": "07/30",
+    "cardNumber": "4532760098761234",
+    "cardType": "Visa",
+    "currency": "INR",
+    "iban": "IN44ARJUN000123456789"
+  },
+  "company": {
+    "department": "Product",
+    "name": "InnovaTech Pvt Ltd",
+    "title": "Product Lead",
+    "address": {
+      "address": "Infopark Campus",
+      "city": "Kochi",
+      "state": "Kerala",
+      "stateCode": "KL",
+      "postalCode": "682030",
+      "coordinates": {
+        "lat": 10.0159,
+        "lng": 76.3419
+      },
+      "country": "India"
+    }
+  },
+  "ein": "550-903",
+  "ssn": "901-222-333",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+  "crypto": {
+    "coin": "Ethereum",
+    "wallet": "0x9988dd22bb11cc33aaee44115566778899ccbbff",
+    "network": "ERC20"
+  },
+  "role": "admin"
+}
