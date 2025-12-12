@@ -1,0 +1,70 @@
+{
+  "id": 2,
+  "firstName": "Divya",
+  "lastName": "Raman",
+  "maidenName": "Sundar",
+  "age": 27,
+  "gender": "female",
+  "email": "divya.raman@example.com",
+  "phone": "+91 98765 33445",
+  "username": "divyar",
+  "password": "divya2025",
+  "birthDate": "1998-02-20",
+  "image": "https://dummyjson.com/icon/divya/128",
+  "bloodGroup": "B+",
+  "height": 165.2,
+  "weight": 55.8,
+  "eyeColor": "Black",
+  "hair": {
+    "color": "Black",
+    "type": "Straight"
+  },
+  "ip": "103.45.77.100",
+  "address": {
+    "address": "89 New Street",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "stateCode": "TN",
+    "postalCode": "600020",
+    "coordinates": {
+      "lat": 13.048,
+      "lng": 80.2099
+    },
+    "country": "India"
+  },
+  "macAddress": "A2:B3:C4:D5:E6:F7",
+  "university": "SRM University",
+  "bank": {
+    "cardExpire": "12/30",
+    "cardNumber": "5246123412344321",
+    "cardType": "Mastercard",
+    "currency": "INR",
+    "iban": "IN55DIVYA009988776655"
+  },
+  "company": {
+    "department": "Marketing",
+    "name": "BrightMedia Pvt Ltd",
+    "title": "Marketing Analyst",
+    "address": {
+      "address": "OMR Road",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "stateCode": "TN",
+      "postalCode": "600041",
+      "coordinates": {
+        "lat": 12.9823,
+        "lng": 80.2398
+      },
+      "country": "India"
+    }
+  },
+  "ein": "450-321",
+  "ssn": "702-333-921",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xaabbcc998877665544332211ffeeccbb11223344",
+    "network": "Bitcoin"
+  },
+  "role": "user"
+}
