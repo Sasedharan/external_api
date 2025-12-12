@@ -1,0 +1,70 @@
+{
+  "id": 4,
+  "firstName": "Fatima",
+  "lastName": "Khan",
+  "maidenName": "Sheikh",
+  "age": 22,
+  "gender": "female",
+  "email": "fatima.khan@example.com",
+  "phone": "+91 98876 22543",
+  "username": "fatimak",
+  "password": "fatima2025",
+  "birthDate": "2003-08-12",
+  "image": "https://dummyjson.com/icon/fatima/128",
+  "bloodGroup": "AB-",
+  "height": 160.0,
+  "weight": 50.2,
+  "eyeColor": "Hazel",
+  "hair": {
+    "color": "Brown",
+    "type": "Straight"
+  },
+  "ip": "103.44.162.33",
+  "address": {
+    "address": "34 Garden Street",
+    "city": "Delhi",
+    "state": "Delhi",
+    "stateCode": "DL",
+    "postalCode": "110001",
+    "coordinates": {
+      "lat": 28.6139,
+      "lng": 77.209
+    },
+    "country": "India"
+  },
+  "macAddress": "C1:D2:E3:F4:A5:B6",
+  "university": "Delhi University",
+  "bank": {
+    "cardExpire": "09/31",
+    "cardNumber": "5555222233334444",
+    "cardType": "Mastercard",
+    "currency": "INR",
+    "iban": "IN55FATIMA007766554433"
+  },
+  "company": {
+    "department": "HR",
+    "name": "NorthStar Solutions",
+    "title": "HR Assistant",
+    "address": {
+      "address": "Connaught Place",
+      "city": "Delhi",
+      "state": "Delhi",
+      "stateCode": "DL",
+      "postalCode": "110001",
+      "coordinates": {
+        "lat": 28.6315,
+        "lng": 77.2167
+      },
+      "country": "India"
+    }
+  },
+  "ein": "667-844",
+  "ssn": "112-998-112",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0x11223344556677889900aabbccddeeff00112233",
+    "network": "Bitcoin"
+  },
+  "role": "intern"
+}
