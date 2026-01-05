@@ -1,0 +1,30 @@
+[
+{
+  "firstName": "John1",
+  "lastName": "Doe",
+  "age": 30,
+  "isStudent": false,
+  "courses": "History"
+},
+{
+  "firstName": "John2",
+  "lastName": "Doe",
+  "age": 30,
+  "isStudent": false,
+  "courses": "History"
+},
+{
+  "firstName": "John3",
+  "lastName": "Doe",
+  "age": 30,
+  "isStudent": false,
+  "courses": "History"
+},
+{
+  "firstName": "John4",
+  "lastName": "Doe",
+  "age": 23,
+  "isStudent": false,
+  "courses": "History"
+}
+]
