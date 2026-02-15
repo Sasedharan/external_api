@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "firstName": "Arjun",
+    "lastName": "Nair",
+    "maidenName": "Menon",
+    "age": 33,
+    "gender": "male",
+    "email": "arjun.nair@example.com",
+    "phone": "+91 98765 55678",
+    "username": "arjunnair",
+    "password": "arjunpass2025",
+    "birthDate": "1992-04-10",
+    "image": "https://dummyjson.com/icon/arjun/128",
+    "bloodGroup": "A-",
+    "height": 182.5,
+    "weight": 78.2,
+    "eyeColor": "Brown",
+    "hair": { "color": "Black", "type": "Wavy" },
+    "ip": "103.22.118.90",
+    "address": {
+      "address": "12 Park Avenue",
+      "city": "Kochi",
+      "state": "Kerala",
+      "stateCode": "KL",
+      "postalCode": "682001",
+      "coordinates": { "lat": 9.9312, "lng": 76.2673 },
+      "country": "India"
+    },
+    "macAddress": "A1:B2:C3:D4:E5:F6",
+    "university": "IIT Madras",
+    "bank": {
+      "cardExpire": "07/30",
+      "cardNumber": "4532760098761234",
+      "cardType": "Visa",
+      "currency": "INR",
+      "iban": "IN44ARJUN000123456789"
+    },
+    "company": {
+      "department": "Product",
+      "name": "InnovaTech Pvt Ltd",
+      "title": "Product Lead",
+      "address": {
+        "address": "Infopark Campus",
+        "city": "Kochi",
+        "state": "Kerala",
+        "stateCode": "KL",
+        "postalCode": "682030",
+        "coordinates": { "lat": 10.0159, "lng": 76.3419 },
+        "country": "India"
+      }
+    },
+    "ein": "550-903",
+    "ssn": "901-222-333",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "crypto": {
+      "coin": "Ethereum",
+      "wallet": "0x9988dd22bb11cc33aaee44115566778899ccbbff",
+      "network": "ERC20"
+    },
+    "role": "admin",
+    "createdDate": "2024-01-10",
+    "lastLoginTimestamp": "2026-02-15T08:30:25Z"
+  },
+  {
+    "id": 2,
+    "firstName": "Rohit",
+    "lastName": "Sharma",
+    "maidenName": "Verma",
+    "age": 29,
+    "gender": "male",
+    "email": "rohit.sharma@example.com",
+    "phone": "+91 98888 11223",
+    "username": "rohitsh",
+    "password": "rohit@2025",
+    "birthDate": "1995-02-14",
+    "image": "https://dummyjson.com/icon/rohit/128",
+    "bloodGroup": "B+",
+    "height": 175.4,
+    "weight": 72,
+    "eyeColor": "Black",
+    "hair": { "color": "Black", "type": "Straight" },
+    "ip": "103.44.201.19",
+    "address": {
+      "address": "MG Road",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "stateCode": "KA",
+      "postalCode": "560001",
+      "coordinates": { "lat": 12.9716, "lng": 77.5946 },
+      "country": "India"
+    },
+    "macAddress": "AA:BB:CC:DD:EE:01",
+    "university": "IISc Bangalore",
+    "bank": {
+      "cardExpire": "09/29",
+      "cardNumber": "5234567812345678",
+      "cardType": "MasterCard",
+      "currency": "INR",
+      "iban": "IN55ROHIT000987654321"
+    },
+    "company": {
+      "department": "Engineering",
+      "name": "TechNova Solutions",
+      "title": "Senior Developer",
+      "address": {
+        "address": "Electronic City",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "stateCode": "KA",
+        "postalCode": "560100",
+        "coordinates": { "lat": 12.839, "lng": 77.677 },
+        "country": "India"
+      }
+    },
+    "ein": "441-221",
+    "ssn": "222-333-444",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X)",
+    "crypto": {
+      "coin": "Bitcoin",
+      "wallet": "bc1qrohit998877665544",
+      "network": "BTC"
+    },
+    "role": "user",
+    "createdDate": "2024-03-22",
+    "lastLoginTimestamp": "2026-02-14T16:12:40Z"
+  },
+
+  {
+    "id": 3,
+    "firstName": "Ananya",
+    "lastName": "Iyer",
+    "maidenName": "Rao",
+    "age": 27,
+    "gender": "female",
+    "email": "ananya.iyer@example.com",
+    "phone": "+91 91234 88990",
+    "username": "ananyai",
+    "password": "ananya#27",
+    "birthDate": "1998-06-21",
+    "image": "https://dummyjson.com/icon/ananya/128",
+    "bloodGroup": "O+",
+    "height": 165.2,
+    "weight": 58.6,
+    "eyeColor": "Hazel",
+    "hair": { "color": "Brown", "type": "Curly" },
+    "ip": "122.176.45.90",
+    "address": {
+      "address": "Anna Nagar",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "stateCode": "TN",
+      "postalCode": "600040",
+      "coordinates": { "lat": 13.085, "lng": 80.2101 },
+      "country": "India"
+    },
+    "macAddress": "AA:BB:CC:DD:EE:03",
+    "university": "Anna University",
+    "bank": {
+      "cardExpire": "03/28",
+      "cardNumber": "4111111122223333",
+      "cardType": "Visa",
+      "currency": "INR",
+      "iban": "IN66ANANYA001122334455"
+    },
+    "company": {
+      "department": "Analytics",
+      "name": "DataSphere",
+      "title": "Data Analyst",
+      "address": {
+        "address": "Guindy Industrial Estate",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "stateCode": "TN",
+        "postalCode": "600032",
+        "coordinates": { "lat": 13.0067, "lng": 80.2206 },
+        "country": "India"
+      }
+    },
+    "ein": "332-119",
+    "ssn": "333-444-555",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13)",
+    "crypto": {
+      "coin": "Polygon",
+      "wallet": "0xana9988ffccdd2211",
+      "network": "MATIC"
+    },
+    "role": "user",
+    "createdDate": "2024-05-18",
+    "lastLoginTimestamp": "2026-02-15T10:05:12Z"
+  }
+]
