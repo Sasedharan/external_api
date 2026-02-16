@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "firstName": "Arjun",
+    "middleName": null,
+    "lastName": "Nair",
+    "isActive": true,
+    "isEmailVerified": false,
+    "accountLocked": false,
+    "deletedAt": null,
+    "birthDate": "1992-04-10",
+    "registrationDate": "2024-01-10",
+    "lastLoginTimestamp": "2026-02-15T08:30:25Z",
+    "profileUpdatedAt": "2026-02-15T10:15:45+05:30",
+    "age": 33,
+    "email": "arjun.nair@example.com",
+    "username": "arjunnair",
+    "password": "arjunpass2025",
+    "height": 182.5,
+    "weight": 78.2,
+
+    "hair": {
+      "color": "Black",
+      "type": "Wavy",
+      "isDyed": false
+    },
+
+    "address": {
+      "address": "12 Park Avenue",
+      "city": "Kochi",
+      "state": "Kerala",
+      "postalCode": "682001",
+      "country": "India",
+      "isPrimary": true,
+      "movedInDate": "2022-06-01",
+      "coordinates": {
+        "lat": 9.9312,
+        "lng": 76.2673,
+        "lastUpdated": "2026-02-15T08:00:00Z"
+      }
+    },
+
+    "bank": {
+      "cardExpire": "07/30",
+      "cardNumber": "4532760098761234",
+      "cardType": "Visa",
+      "currency": "INR",
+      "iban": null,
+      "isInternationalEnabled": true
+    },
+
+    "company": {
+      "department": "Product",
+      "name": "InnovaTech Pvt Ltd",
+      "title": "Product Lead",
+      "isRemote": true,
+      "joiningDate": "2021-09-15",
+      "lastPromotionTimestamp": null
+    },
+
+    "role": "admin",
+    "createdDate": "2024-01-10"
+  },
+
+  {
+    "id": 2,
+    "firstName": "Rohit",
+    "middleName": "Kumar",
+    "lastName": "Sharma",
+    "isActive": true,
+    "isEmailVerified": true,
+    "accountLocked": false,
+    "deletedAt": null,
+    "birthDate": "1995-02-14",
+    "registrationDate": "2024-03-22",
+    "lastLoginTimestamp": "2026-02-14T16:12:40Z",
+    "profileUpdatedAt": null,
+    "age": 29,
+    "email": "rohit.sharma@example.com",
+    "username": "rohitsh",
+    "password": "rohit@2025",
+    "height": 175.4,
+    "weight": 72,
+
+    "hair": {
+      "color": "Black",
+      "type": "Straight",
+      "isDyed": false
+    },
+
+    "address": {
+      "address": "MG Road",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "postalCode": "560001",
+      "country": "India",
+      "isPrimary": true,
+      "movedInDate": "2023-01-10",
+      "coordinates": {
+        "lat": 12.9716,
+        "lng": 77.5946,
+        "lastUpdated": "2026-02-14T16:00:00Z"
+      }
+    },
+
+    "bank": {
+      "cardExpire": "09/29",
+      "cardNumber": "5234567812345678",
+      "cardType": "MasterCard",
+      "currency": "INR",
+      "iban": "IN55ROHIT000987654321",
+      "isInternationalEnabled": false
+    },
+
+    "company": {
+      "department": "Engineering",
+      "name": "TechNova Solutions",
+      "title": "Senior Developer",
+      "isRemote": false,
+      "joiningDate": "2020-04-01",
+      "lastPromotionTimestamp": "2024-07-01T10:00:00Z"
+    },
+
+    "role": "user",
+    "createdDate": "2024-03-22"
+  },
+
+  {
+    "id": 3,
+    "firstName": "Ananya",
+    "middleName": null,
+    "lastName": "Iyer",
+    "isActive": false,
+    "isEmailVerified": true,
+    "accountLocked": true,
+    "deletedAt": null,
+    "birthDate": "1998-06-21",
+    "registrationDate": "2024-05-18",
+    "lastLoginTimestamp": "2026-02-15T10:05:12Z",
+    "profileUpdatedAt": "2026-02-15T11:10:00+05:30",
+    "age": 27,
+    "email": "ananya.iyer@example.com",
+    "username": "ananyai",
+    "password": "ananya#27",
+    "height": 165.2,
+    "weight": 58.6,
+
+    "hair": {
+      "color": "Brown",
+      "type": "Curly",
+      "isDyed": true
+    },
+
+    "address": {
+      "address": "Anna Nagar",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "postalCode": "600040",
+      "country": "India",
+      "isPrimary": false,
+      "movedInDate": "2021-11-05",
+      "coordinates": {
+        "lat": 13.085,
+        "lng": 80.2101,
+        "lastUpdated": "2026-02-15T09:45:00Z"
+      }
+    },
+
+    "bank": {
+      "cardExpire": "03/28",
+      "cardNumber": "4111111122223333",
+      "cardType": "Visa",
+      "currency": "INR",
+      "iban": null,
+      "isInternationalEnabled": true
+    },
+
+    "company": {
+      "department": "Analytics",
+      "name": "DataSphere",
+      "title": "Data Analyst",
+      "isRemote": true,
+      "joiningDate": "2022-02-10",
+      "lastPromotionTimestamp": "2025-01-15T14:20:00Z"
+    },
+
+    "role": "user",
+    "createdDate": "2024-05-18"
+  }
+]
