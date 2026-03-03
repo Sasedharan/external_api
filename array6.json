@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "firstName": "Arjun",
+    "lastName": "Nair",
+    "role": [
+      { "age": 29, "department": "Engineering" },
+      "unexpected_string",
+      123,
+      true,
+      null
+    ]
+  },
+  {
+    "id": 2,
+    "firstName": "Rohit",
+    "lastName": "Sharma",
+    "role": [
+      { "age": 32, "department": "DevOps" },
+      false,
+      456,
+      "random_value"
+    ]
+  },
+  {
+    "id": 3,
+    "firstName": "Ananya",
+    "lastName": "Iyer",
+    "role": [
+      "just_string",
+      789,
+      { "age": 27, "department": "Analytics" },
+      true
+    ]
+  },
+  {
+    "id": 4,
+    "firstName": "Karthik",
+    "lastName": "Raman",
+    "role": [
+      null,
+      { "age": 30, "department": "Product" },
+      "another_string",
+      999
+    ]
+  }
+]
