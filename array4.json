@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "firstName": "Arjun",
+    "lastName": "Nair",
+    "company": {
+      "name": "InnovaTech",
+      "teams": [
+        {
+          "teamName": "Platform",
+          "size": 5
+        },
+        {
+          "teamName": "Analytics",
+          "size": 3
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "firstName": "Rohit",
+    "lastName": "Sharma",
+    "company": {
+      "name": "TechNova",
+      "teams": [
+        {
+          "teamName": "Engineering",
+          "size": 8
+        },
+        {
+          "teamName": "DevOps",
+          "size": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "firstName": "Ananya",
+    "lastName": "Iyer",
+    "company": {
+      "name": "DataSphere",
+      "teams": [
+        {
+          "teamName": "Data Engineering",
+          "size": 6
+        },
+        {
+          "teamName": "BI",
+          "size": 2
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "firstName": "Karthik",
+    "lastName": "Raman",
+    "company": {
+      "name": "CloudEdge",
+      "teams": [
+        {
+          "teamName": "Cloud Ops",
+          "size": 7
+        },
+        {
+          "teamName": "Security",
+          "size": 3
+        }
+      ]
+    }
+  }
+]
