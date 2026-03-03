@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "firstName": "Arjun",
+    "lastName": "Nair",
+    "profile": {
+      "education": {
+        "degrees": [
+          {
+            "type": "B.Tech",
+            "year": 2018,
+            "subjects": ["Math", "Physics"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 2,
+    "firstName": "Rohit",
+    "lastName": "Sharma",
+    "profile": {
+      "education": {
+        "degrees": [
+          {
+            "type": "MBA",
+            "year": 2020,
+            "subjects": ["Finance", "Marketing"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 3,
+    "firstName": "Ananya",
+    "lastName": "Iyer",
+    "profile": {
+      "education": {
+        "degrees": [
+          {
+            "type": "M.Sc",
+            "year": 2021,
+            "subjects": ["Data Science", "AI"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 4,
+    "firstName": "Karthik",
+    "lastName": "Raman",
+    "profile": {
+      "education": {
+        "degrees": [
+          {
+            "type": "B.Com",
+            "year": 2017,
+            "subjects": ["Accounting", "Economics"]
+          }
+        ]
+      }
+    }
+  }
+]
