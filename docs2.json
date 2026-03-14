@@ -1,0 +1,112 @@
+{
+  "data": {
+    "site_name": "Mohideen Home",
+    "measurement_unit": "l",
+    "blocks": [
+      {
+        "block_name": "MO_Home",
+        "units": [
+          {
+            "unit_no": "GND_FLR",
+            "unit_id": 2339,
+            "total_usage": 2050,
+            "inlets": [
+              {
+                "name": "BW",
+                "consumption": 580,
+                "cumulative": 38494,
+                "last_updated_time": 1602445489000
+              },
+              {
+                "name": "MW",
+                "consumption": 1470,
+                "cumulative": 207913,
+                "last_updated_time": 1602445490000
+              }
+            ]
+          },
+          {
+            "unit_no": "1ST_FLR",
+            "unit_id": 2340,
+            "total_usage": 3696,
+            "inlets": [
+              {
+                "name": "BW",
+                "consumption": 3298,
+                "cumulative": 1224605,
+                "last_updated_time": 1602445491000
+              },
+              {
+                "name": "MW",
+                "consumption": 398,
+                "cumulative": 117381,
+                "last_updated_time": 1602445493000
+              }
+            ]
+          },
+          {
+            "unit_no": "2ND_FLR",
+            "unit_id": 2341,
+            "total_usage": 2708,
+            "inlets": [
+              {
+                "name": "MW",
+                "consumption": 1352,
+                "cumulative": 303181,
+                "last_updated_time": 1602445494000
+              },
+              {
+                "name": "BW",
+                "consumption": 1356,
+                "cumulative": 379018,
+                "last_updated_time": 1602445495000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_name": "Common",
+        "units": [
+          {
+            "unit_no": "TANK",
+            "unit_id": 2341,
+            "total_usage": 5958,
+            "inlets": [
+              {
+                "name": "BW",
+                "consumption": 1868,
+                "cumulative": 622805,
+                "last_updated_time": 1602445487000
+              },
+              {
+                "name": "MW",
+                "consumption": 4090,
+                "cumulative": 670870,
+                "last_updated_time": 1602445497000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_name": "Duct",
+        "units": [
+          {
+            "unit_no": "duct _com",
+            "unit_id": 2342,
+            "total_usage": 0,
+            "inlets": [
+              {
+                "name": "duct",
+                "consumption": 0,
+                "cumulative": 0,
+                "last_updated_time": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
