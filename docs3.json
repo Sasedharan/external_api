@@ -1,0 +1,29 @@
+{
+  "requested_data": {
+    "from_date": "2020-08-01",
+    "to_date": "2020-08-10",
+    "unit_id": 2341
+  },
+  "data": {
+    "site_name": "Mohideen Home",
+    "measurement_unit": "l",
+    "block_name": "MO_Home",
+    "unit_no": "2ND_FLR",
+    "unit_id": 2341,
+    "total_usage": 2708,
+    "inlets": [
+      {
+        "name": "MW",
+        "consumption": 1352,
+        "cumulative": 303181,
+        "last_updated_time": 1602445494000
+      },
+      {
+        "name": "BW",
+        "consumption": 1356,
+        "cumulative": 379018,
+        "last_updated_time": 1602445495000
+      }
+    ]
+  }
+}
