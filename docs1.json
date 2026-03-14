@@ -1,0 +1,59 @@
+{
+  "site_name": "Mohideen Home",
+  "blocks": [
+    {
+      "block_name": "Common",
+      "units": [
+        {
+          "unit_no": "TANK",
+          "unit_id": 2341,
+          "inlets": [
+            "BW",
+            "MW"
+          ]
+        }
+      ]
+    },
+    {
+      "block_name": "Duct",
+      "units": [
+        {
+          "unit_no": "duct_com",
+          "unit_id": 2342,
+          "inlets": [
+            "duct"
+          ]
+        }
+      ]
+    },
+    {
+      "block_name": "MO_Home",
+      "units": [
+        {
+          "unit_no": "1ST_FLR",
+          "unit_id": 2340,
+          "inlets": [
+            "BW",
+            "MW"
+          ]
+        },
+        {
+          "unit_no": "2ND_FLR",
+          "unit_id": 2341,
+          "inlets": [
+            "MW",
+            "BW"
+          ]
+        },
+        {
+          "unit_no": "GND_FLR",
+          "unit_id": 2339,
+          "inlets": [
+            "BW",
+            "MW"
+          ]
+        }
+      ]
+    }
+  ]
+}
