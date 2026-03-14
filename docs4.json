@@ -1,0 +1,23 @@
+{
+  "slab": [
+    {
+      "rate": 0.15,
+      "to_litre": 6000,
+      "from_litre": 1
+    },
+    {
+      "rate": 0.25,
+      "to_litre": 12000,
+      "from_litre": 6001
+    }
+  ],
+  "no_of_slab": 3,
+  "squarefeet_rate": 0,
+  "fixed_cost": 0,
+  "amc_fee": 10,
+  "service_fee": 10,
+  "device_rent": 10,
+  "maintenance_charges": 1,
+  "water_charges": 1,
+  "venaqua_charges": 1
+}
