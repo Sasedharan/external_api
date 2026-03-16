@@ -1,7 +1,7 @@
 [
   {
     "unit_id": "2076712345",
-    "bill_month": "2021-04",
+    "bill_month": "2021-04-01",
     "bill_date": "2021-04-07",
     "bill_duedate": "2021-04-10",
     "items": [
@@ -14,11 +14,11 @@
   {
     "unit_id": "2076812345",
     "bill_month": "2021-04",
-    "bill_date": "2021-04-07",
-    "bill_duedate": "2021-04-10",
+    "bill_date": "2021-04-08",
+    "bill_duedate": "2021-04-11",
     "items": [
       {
-        "amount": "1400.00",
+        "amount": "1401.00",
         "comment": "30936 litres"
       }
     ]
